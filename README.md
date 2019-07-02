@@ -5,4 +5,5 @@ alias affScene='python path_to_file/affScene.py'
 
 ## Use
 affScene scene.py
+
 affScene scene.py > graph.txt
